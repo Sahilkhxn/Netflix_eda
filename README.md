@@ -24,12 +24,26 @@ Exploratory Data Analysis of Netflix's movies and TV shows dataset, exploring co
 
 ## 📈 Key Insights
 
-- Movies make up [__%] of Netflix's catalog, while TV Shows make up [__%]
-- Content additions peaked in [year] with [number] titles added
-- [Country name] and [Country name] are the top content-producing countries
-- The most common genre is [genre name]
-- The most common rating is [rating], suggesting [family-friendly / mature-audience] focus
-- Average movie duration is around [__] minutes
-- [Director name] has directed the most titles on the platform
+- Movies make up [69.692833%] of Netflix's catalog, while TV Shows make up [30.307167%]
+- Content additions peaked in [2019] with [2016] titles added
+- [United States] and [India] are the top content-producing countries
+- The most common genre is [International Movies]
+- The most common rating is [TV-MA], suggesting [family-friendly / mature-audience] focus
+- Average movie duration is around [99.58] minutes
+- [Rajiv Chilaka ] has directed the most titles on the platform
 
-## 📁 Project Structure
+## 📁 Project StructureS
+
+
+
+
+## 🚀 How to Run
+
+```bash
+pip install -r requirements.txt
+jupyter notebook netflix.ipynb
+```
+
+## 👤 Author
+
+Sahil Khan — [GitHub](https://github.com/Sahilkhxn)
